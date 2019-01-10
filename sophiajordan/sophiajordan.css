@@ -1,13 +1,10 @@
-h1 {
-    font-size: 22px;
-    color:black;
-    text-align: center;
-}
+
 p{
     font-size:15px;
     color:black;
-    padding-left: 300px;
-    padding-right: 300px;
+    padding-left: 450px;
+    padding-right: 450px;
+
     text-align: left;
     line-height: 1.5;
 }
@@ -17,7 +14,8 @@ img.center{
     margin-right: auto;
 }
 img {
-    width:30%;
+width:30%;
+height: auto;
 }
 body {
 	margin: 0px;
