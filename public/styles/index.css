@@ -80,7 +80,6 @@ body {
     font-weight: 300;
     font-size: 15px;
     cursor: pointer;
-	transition: .3s;
 }
 
 .nav-button input:hover {
