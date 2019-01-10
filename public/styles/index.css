@@ -26,5 +26,6 @@ body {
 .background {
 	width: 100%;
 	height: -webkit-fill-availabile;
-	background-image: url('https://raw.githubusercontent.com/Oujirou/Jan2019TeamA/master/public/images/background-image-index.jpg')
+	background-image: url('https://raw.githubusercontent.com/Oujirou/Jan2019TeamA/master/public/images/background-image-index.jpg');
+	background-size: cover;		
 }
