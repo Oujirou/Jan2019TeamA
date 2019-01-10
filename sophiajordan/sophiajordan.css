@@ -1,4 +1,21 @@
-@import url('https://fonts.googleapis.com/css?family=Staatliches|Thasadith:400,400i,700,700i');
+
+p{
+    font-size:15px;
+    color:black;
+    padding-left: 450px;
+    padding-right: 450px;
+
+    text-align: left;
+    line-height: 1.5;
+}
+img.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+img {
+    border-radius: 2.75%;
+}
 body {
 	margin: 0px;
 }
