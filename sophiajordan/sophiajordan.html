@@ -30,7 +30,7 @@
 								</div>
 						</div>
 					</div>
-					<div class="background"></div>
+					<!-- <div class="background"></div> -->
 			<img src="images/IMG_0324.jpg" alt="Sophia Jordan" width="200px" height="200px" class="center">
 			<h1>Who Am I?</h1>
 				<p>My name is Sophia Jordan and I am currently a sophomore 
@@ -40,8 +40,11 @@
 				
 				<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 				<script>
-					$(".nav-button input").click(funciton() {
-						window.location.replace('/home')
+					$(".nav-button input[value='Sophia']").click(function() {
+						window.location.replace('sophiajordan.html')
+					});
+					$(".nav-button input[value='Aiden']").click(function() {
+						window.location.replace('file:///Users/sophiajordan/Documents/GitHub/Jan2019TeamA/index.html')
 					});
 				</script>				
 			  
