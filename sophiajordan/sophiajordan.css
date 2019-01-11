@@ -99,14 +99,7 @@ body {
     transform: translate(-50%, -50%);
 }
 
-.background {
-	width: 100%;
-	height: -webkit-fill-available;
-	background-image: url('https://raw.githubusercontent.com/Oujirou/Jan2019TeamA/master/public/images/background-image-index.jpg');
-	background-size: cover;	
-	top: 0px;
-	position: absolute;
-}
+
 
 .nav-button-wrapper {
 	width: fit-content;
