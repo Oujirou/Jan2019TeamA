@@ -145,3 +145,28 @@ body {
 .nav-button input:hover {
  	border-bottom: 2px solid white;	
 }
+.favorites{
+    font-size:15px;
+    color:black;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-family: 'helvetica';
+    font-weight: 100;
+    letter-spacing: 2px;
+    text-align: center;
+    line-height: 1.5;
+    list-style-position: inside;
+
+
+}
+h2,h3,h4,h5{
+    font-size:30px;
+    color:black;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-family: 'helvetica';
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-align: center;
+    line-height: 1.5;
+}
