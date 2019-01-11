@@ -23,6 +23,26 @@ h1
     line-height: 1.5; 
 }
 
+li{
+    color: black;
+    text-align: center;
+    font-family: 'helvetica';
+    padding-left: 200px;
+    padding-right: 200px;
+
+}
+h3{
+    font-size: 30px;
+    color:black;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-family: 'helvetica';
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-align: center;
+    line-height: 1.5; 
+}
+
 img.center{
     display: block;
     margin-left: auto;
