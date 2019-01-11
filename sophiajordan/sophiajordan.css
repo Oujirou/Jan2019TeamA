@@ -1,4 +1,7 @@
 
+body{
+background-color: white;
+}
 p{
     font-size:15px;
     color:black;
@@ -16,9 +19,8 @@ img.center{
     margin-right: auto;
 }
 img {
-    width: 50%;
-    height: 100%;
-
+    width: 40%;
+    height: auto;
 }
 body {
 	margin: 0px;
