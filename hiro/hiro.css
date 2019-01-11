@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css?family=Staatliches|Thasadith:400,400i,700,700i');
+body {
+	margin: 0px;
+}
+
+.header {
+  color: black;
+  font-family: helvetica;
+  font-size: 50px;
+  background-color: white;
+  padding: 100px;
+  text-align: center;
+}
+
+h2 {
+  font-family: helvetica;
+  font-size: 30px;
+  background-color: white;
+  padding-left: 30px;
+  text-align: left; 
+}
+
+p{
+  font-family: helvetica;
+  font-size: 25px;
+  background-color: white;
+  padding-left: 30px;
+  text-align: justify;  
+}
+
+h2{
+    
+}
+
+.column {
+  float: left;
+  padding: 10px;
+}
+
+.column.side {
+  width: 47%;
+}
+
+.nav-wrapper {
+    width: 100%;
+    height: 90px;
+    display: -webkit-box;
+    background-color: #2d2d2deb;
+    z-index: 10;
+    position: relative;
+    -webkit-box-shadow: 0px 0px 42px 0px rgba(0,0,0,0.8);
+    -moz-box-shadow: 0px 0px 42px 0px rgba(0,0,0,0.8);
+    box-shadow: 0px 0px 42px 0px rgba(0,0,0,0.8);
+}
+
+.nav-left {
+	width: 40%;
+    height: 100%;
+	position: relative;
+}
+.nav-right {
+	width: 40%;
+    height: 100%;
+	position: relative;
+}
+
+.nav-center {
+	width: 20%;
+    height: 100%;
+}
+
+.nav-center h1 {
+    color: white;
+    font-family: helvetica;
+    font-weight: 100;
+    /* text-transform: uppercase; */
+    letter-spacing: 2px;
+    text-align: center;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.background {
+	width: 100%;
+	height: -webkit-fill-available;
+	background-image: url('https://raw.githubusercontent.com/Oujirou/Jan2019TeamA/master/public/images/background-image-index.jpg');
+	background-size: cover;	
+	top: 0px;
+	position: absolute;
+}
+
+.nav-button-wrapper {
+	width: fit-content;
+	height: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+	display: -webkit-box;
+    transform: translate(-50%, -50%);
+}
+
+.nav-button {
+	width: 120px;
+	height: 100%;
+}
+
+.nav-button input {
+    width: 100%;
+    height: 100%;
+    background: none;
+    outline: none;
+    border: none;
+    color: white;
+    font-family: helvetica;
+    font-weight: 300;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.nav-button input:hover {
+ 	border-bottom: 2px solid white;	
+}

@@ -83,7 +83,7 @@ body {
     outline: none;
     border: none;
     color: white;
-    font-family: helvetica;
+    font-family: 'helvetica';
     font-weight: 300;
     font-size: 15px;
     cursor: pointer;
