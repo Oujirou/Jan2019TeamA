@@ -4,7 +4,9 @@ p{
     color:black;
     padding-left: 450px;
     padding-right: 450px;
-
+    font-family: 'helvetica';
+    font-weight: 100;
+    letter-spacing: 2px;
     text-align: left;
     line-height: 1.5;
 }
