@@ -4,7 +4,9 @@ p{
     color:black;
     padding-left: 450px;
     padding-right: 450px;
-
+    font-family: helvetica;
+    font-weight: 100;
+    letter-spacing: 2px;
     text-align: left;
     line-height: 1.5;
 }
@@ -14,7 +16,9 @@ img.center{
     margin-right: auto;
 }
 img {
-    border-radius: 2.75%;
+    width: 50%;
+    height: 100%;
+
 }
 body {
 	margin: 0px;
