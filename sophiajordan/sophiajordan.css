@@ -14,8 +14,8 @@ h1
 {
     font-size: 30px;
     color:black;
-    padding-left: 450px;
-    padding-right: 450px;
+    padding-left: 400px;
+    padding-right: 400px;
     font-family: 'helvetica';
     font-weight: 400;
     letter-spacing: 2px;
@@ -23,25 +23,38 @@ h1
     line-height: 1.5; 
 }
 
-li{
-    color: black;
-    text-align: center;
-    font-family: 'helvetica';
-    padding-left: 200px;
-    padding-right: 200px;
 
-}
-h3{
-    font-size: 30px;
+
+.favorites{
+    font-size:15px;
     color:black;
-    padding-left: 500px;
-    padding-right: 500px;
+    padding-left: 400px;
+    padding-right: 400px;
     font-family: 'helvetica';
-    font-weight: 400;
+    font-weight: 100;
     letter-spacing: 2px;
     text-align: center;
-    line-height: 1.5; 
+    line-height: 1.5;
+    text-align: left;
+    padding-left:25px;
+
+
 }
+h2,h3,h4,h5{
+    font-size:30px;
+    color:black;
+    padding-left: 400px;
+    padding-right: 400px;
+    font-family: 'helvetica';
+    font-weight: 100;
+    letter-spacing: 2px;
+    text-align: center;
+    line-height: 1.5;
+    text-align: left;
+    padding-left:25px;
+    font-weight: 400;
+}
+
 
 img.center{
     display: block;
