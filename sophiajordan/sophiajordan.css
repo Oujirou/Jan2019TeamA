@@ -34,8 +34,8 @@ li{
 h3{
     font-size: 30px;
     color:black;
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 500px;
+    padding-right: 500px;
     font-family: 'helvetica';
     font-weight: 400;
     letter-spacing: 2px;
@@ -52,6 +52,7 @@ img {
 width:30%;
 height: auto;
 }
+@import url('https://fonts.googleapis.com/css?family=Staatliches|Thasadith:400,400i,700,700i');
 body {
 	margin: 0px;
 }
