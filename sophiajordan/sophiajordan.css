@@ -2,20 +2,70 @@
 p{
     font-size:15px;
     color:black;
-    padding-left: 450px;
-    padding-right: 450px;
-
+    padding-left: 200px;
+    padding-right: 200px;
+    font-family: 'helvetica';
+    font-weight: 100;
+    letter-spacing: 2px;
     text-align: left;
     line-height: 1.5;
 }
+h1
+{
+    font-size: 30px;
+    color:black;
+    padding-left: 400px;
+    padding-right: 400px;
+    font-family: 'helvetica';
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-align: center;
+    line-height: 1.5; 
+}
+
+
+
+.favorites{
+    font-size:15px;
+    color:black;
+    padding-left: 400px;
+    padding-right: 400px;
+    font-family: 'helvetica';
+    font-weight: 100;
+    letter-spacing: 2px;
+    text-align: center;
+    line-height: 1.5;
+    text-align: left;
+    padding-left:25px;
+
+
+}
+h2,h3,h4,h5{
+    font-size:30px;
+    color:black;
+    padding-left: 400px;
+    padding-right: 400px;
+    font-family: 'helvetica';
+    font-weight: 100;
+    letter-spacing: 2px;
+    text-align: center;
+    line-height: 1.5;
+    text-align: left;
+    padding-left:25px;
+    font-weight: 400;
+}
+
+
 img.center{
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 img {
-    border-radius: 2.75%;
+width:30%;
+height: auto;
 }
+@import url('https://fonts.googleapis.com/css?family=Staatliches|Thasadith:400,400i,700,700i');
 body {
 	margin: 0px;
 }
@@ -62,14 +112,7 @@ body {
     transform: translate(-50%, -50%);
 }
 
-.background {
-	width: 100%;
-	height: -webkit-fill-available;
-	background-image: url('https://raw.githubusercontent.com/Oujirou/Jan2019TeamA/master/public/images/background-image-index.jpg');
-	background-size: cover;	
-	top: 0px;
-	position: absolute;
-}
+
 
 .nav-button-wrapper {
 	width: fit-content;
