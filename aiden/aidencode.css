@@ -87,7 +87,7 @@ h1 {
 .background {
   width: 100%;
   height: -webkit-fill-available;
-  background-image: url("../images/sfbridge.jpg");
+  background-image: url("../sfbridge.jpg");
   background-size: cover;
   position: absolute;
   bottom: 0px;
@@ -184,7 +184,7 @@ h1 {
   position: relative;
 }
 .aiden-image {
-  background-image: url("../images/aiden.jpg");
+  background-image: url("../aiden.jpg");
   background-size: cover;
   width: 280px;
   height: 390px;
